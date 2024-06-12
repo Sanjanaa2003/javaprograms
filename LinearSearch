@@ -18,3 +18,8 @@ public class LinearSearch1{
 
 OVERALL TC - O(N)
 SC - O(1) 
+
+PSEUDOCODE:
+1.Create a function with 2 parameters( arr , value)
+2.Loop through the array and check if array element = value
+3. If yes return index else return -1
